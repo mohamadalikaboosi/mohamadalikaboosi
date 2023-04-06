@@ -9,8 +9,8 @@ integrating them together.</h3>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/samb2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samb2" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11902569/ali-mirzabagher-barzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11902569" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamad-ka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samb2" height="30" width="40" /></a>
+<a href="http://stackoverflow.com/users/8355651/mohamad-ka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11902569" height="30" width="40" /></a>
 </p>
 
 <div align="center">

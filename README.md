@@ -128,5 +128,5 @@ A 24/7 internet radio platform built around Telegram channels, live audio stream
 ---
 
 <p align="center">
-  <i>Build things. Break things. Understand why they broke. Build them better.</i>
+  <i>Do the right thing. Build it properly. Everything else is noise.</i>
 </p>

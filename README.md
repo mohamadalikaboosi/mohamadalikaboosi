@@ -1,43 +1,132 @@
-<h1 align="center">Hey, I'm Mohamad Ali Kaboosi</h1>
-<h3 align="center"> I am an experienced Web Developer with more than 9 years of experience,
-passionate about Web Software Architecture and designing Databases. I
-enjoy debugging and working with other people on a team to improve
-already existing Codebases, as well as learning new technologies and
-integrating them together.</h3>
+<h1 align="center">Hey, I'm Mohamad Ali Kaboosi 👋</h1>
 
-- 📫 How to reach me **mohamadali.kaboosi@gmail.com**
-
-<h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/mohamad-ka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samb2" height="30" width="40" /></a>
-<a href="http://stackoverflow.com/users/8355651/mohamad-ka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11902569" height="30" width="40" /></a>
+  <strong>Senior Backend Engineer · Software Architect · Node.js / TypeScript</strong>
 </p>
 
-<div align="center">
-<h3 align="center">Languages and Tools</h3>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-</div>
-<!--
-**samb2/samb2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I build backend systems, design software architectures, and enjoy turning complex problems into simple, maintainable solutions.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+I'm a backend engineer with **14+ years of software development experience**, currently focused on **Node.js, TypeScript, backend architecture, distributed systems, and database design**.
+
+I enjoy working on systems where things get interesting:
+
+* Designing scalable backend architectures
+* Building distributed and event-driven systems
+* Designing databases and data-intensive applications
+* Refactoring and improving large codebases
+* Debugging difficult production problems
+* Designing APIs and service boundaries
+* Exploring AI-assisted software engineering and **Vibecoding**
+* Learning new technologies and figuring out where they actually make sense
+
+I believe good software is not about using the most technologies.
+
+It's about making the right trade-offs.
+
+---
+
+### 🧠 What I Work With
+
+**Backend**
+
+`Node.js` · `TypeScript` · `NestJS` · `Express` · `REST` · `GraphQL` · `gRPC`
+
+**Architecture**
+
+`DDD` · `Hexagonal Architecture` · `Microservices` · `Event-Driven Architecture` · `Distributed Systems`
+
+**Data**
+
+`PostgreSQL` · `MySQL` · `MongoDB` · `Redis`
+
+**Messaging & Infrastructure**
+
+`RabbitMQ` · `BullMQ` · `Docker` · `Kubernetes` · `Nginx` · `Linux`
+
+**Observability & Engineering**
+
+`OpenTelemetry` · `Testing` · `CI/CD` · `Performance` · `Debugging`
+
+**AI-Assisted Development**
+
+`AI Coding Agents` · `Vibecoding` · `LLM-assisted Architecture & Development`
+
+---
+
+### 🚀 What I'm Interested In
+
+```text
+Backend Engineering
+Software Architecture
+Distributed Systems
+Database Design
+System Design
+Performance & Scalability
+Developer Experience
+AI + Software Engineering
+```
+
+---
+
+### 🛠️ Current Focus
+
+I'm currently exploring how AI can change the way we design and build software.
+
+Not just:
+
+> "Write this code for me."
+
+But more like:
+
+```text
+Problem
+   ↓
+Architecture
+   ↓
+Design
+   ↓
+Implementation
+   ↓
+Testing
+   ↓
+Review
+   ↓
+Iteration
+```
+
+Using AI as an engineering partner while keeping architecture, trade-offs, and technical decisions human-driven.
+
+---
+
+### 📌 Featured Projects
+
+🎧 **Radio Rainy**
+
+A 24/7 internet radio platform built around Telegram channels, live audio streaming, caching, background workers, lyrics processing, and AI-assisted development.
+
+🔗 [Radio Rainy](https://github.com/mohamadalikaboosi/radio_rainy_nestjs)
+
+---
+
+### 📫 Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/mohamad-ka/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mohamadali.kaboosi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Build things. Break things. Understand why they broke. Build them better.</i>
+</p>
